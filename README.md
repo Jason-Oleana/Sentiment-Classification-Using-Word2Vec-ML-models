@@ -1,5 +1,7 @@
 # Sentiment Analysis Using Word2Vec + ML models
 
+# Work in progress
+
 ## Word2Vec
 - Custom Word2Vec
 - Custom Word2Vec + Transfer learning
