@@ -5,7 +5,7 @@
 - Custom Word2Vec + Transfer learning
 
 ## Feature Extraction
-- Mean Embedding
+- Mean Embedding Vectorizer
 
 ## ML models
 - SVM
