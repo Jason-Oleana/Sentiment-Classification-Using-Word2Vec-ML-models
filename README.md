@@ -1,4 +1,4 @@
-# Sentiment Analysis Using Word2Vec + ML models
+# Sentiment Classification Using Word2Vec + ML models
 
 # Work in progress
 
