@@ -9,7 +9,7 @@ Twitter US Airline Sentiment
 
 ## Word2Vec
 - Custom Word2Vec
-- Custom Word2Vec + Transfer learning
+- Custom Word2Vec + Transfer learning(GoogleNews-vectors-negative300.bin)
 
 ## Feature Extraction
 - Mean Embedding Vectorizer
